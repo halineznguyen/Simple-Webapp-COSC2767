@@ -8,12 +8,13 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-    <title>Hello DevOps Students of RMIT Vietnam!!!</title>
+    <title>Hello DevOps Students!</title>
   </head>
   <body>
 
     <!-- The content of the website starts here now! -->
     <div class="jumbotron">
+      <h1 class="display-4">Hello DevOps Students of RMIT Vietnam!!!</h1>
       <p class="lead">This is a very simple website template that uses bootstrap CSS framework! This is a new code to push for the github SCM poll!</p>
       <p class="lead">This website is build automatically by Jenkins!!! Yeahhhh!!! New Test</p>
       <p class="lead">Adding new changes to this file! Another change</p>
